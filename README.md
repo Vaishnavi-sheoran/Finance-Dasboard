@@ -4,7 +4,7 @@
 The finance dashboard data analysis project leverages a dataset with the following columns:
 Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price ETC.
 
-2. Insights
+2. Insights-:
 Detailed analysis of the dataset has provided several critical insights:
 
 Total Sales: The total sales amount to $1.13 million.
@@ -34,7 +34,8 @@ In 2013, a total of 264,000 units were sold.
 In 2014, the total units sold increased to 864,000.
 
 
-3. Recommendations
+3. Recommendations :-
+   
 Based on the insights drawn from the analysis, several recommendations can be made to enhance business performance:
 
 Focus on High-Sales Periods:
